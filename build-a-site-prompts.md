@@ -1,4 +1,6 @@
 # Instructions
+- To start, create a repo in our GitHub org for your team. Name it the name of the prompt (e.g. Sunny Vale Daycare Center).
+
 1. Take the prompt your team is assigned and turn it into user stories.
     - I suggest using Google Doc to make sharing these easier
 2. Create gherkin scenarios to fulfill those user stories.
